@@ -15,19 +15,23 @@ Supply Chain/Value Chain Model
 Go-To-Market Strategies for Clients
 
 Industries We Cover are
-Aerospace and Defense
-Agriculture
-Automotive and Transportation
-Biotechnology
-Chemicals and Materials
-Consumer Goods
-Energy and Power
-Food and Beverages
-Healthcare
-Information and Communications Technology
-Machinery and Equipment
-Manufacturing and Construction
-Packaging
-Semiconductor and Electronics
+<ul>
+<li><a href="https://citiusresearch.com/reports/Aerospace-and-Defense" style="color:#404040; font-weight:500;"> Aerospace and Defense  </a></li>
+                         <li><a href="https://citiusresearch.com/reports/Agriculture" style="color:#404040; font-weight:500;"> Agriculture  </a></li>
+                                                                <li><a href="https://citiusresearch.com/reports/Automotive-and-Transportation" style="color:#404040; font-weight:500;"> Automotive and Transportation  </a></li>
+                                                                <li><a href="https://citiusresearch.com/reports/Biotechnology" style="color:#404040; font-weight:500;"> Biotechnology  </a></li>
+                                                                <li><a href="https://citiusresearch.com/reports/Chemicals-and-Materials" style="color:#404040; font-weight:500;"> Chemicals and Materials  </a></li>
+                                                                <li><a href="https://citiusresearch.com/reports/Consumer-Goods" style="color:#404040; font-weight:500;"> Consumer Goods  </a></li>
+                                                                <li><a href="https://citiusresearch.com/reports/Energy-and-Power" style="color:#404040; font-weight:500;"> Energy and Power  </a></li>
+                                                                <li><a href="https://citiusresearch.com/reports/Food-and-Beverages" style="color:#404040; font-weight:500;"> Food and Beverages  </a></li>
+                                                                <li><a href="https://citiusresearch.com/reports/Healthcare" style="color:#404040; font-weight:500;"> Healthcare  </a></li>
+                                                                <li><a href="https://citiusresearch.com/reports/Information-and-Communications-Technology" style="color:#404040; font-weight:500;"> Information and Communications Technology  </a></li>
+                                                                <li><a href="https://citiusresearch.com/reports/Machinery-and-Equipment" style="color:#404040; font-weight:500;"> Machinery and Equipment  </a></li>
+                                                                <li><a href="https://citiusresearch.com/reports/Manufacturing-and-Construction" style="color:#404040; font-weight:500;"> Manufacturing and Construction  </a></li>
+                                                                                                <li><a href="https://citiusresearch.com/reports/Packaging" style="color:#404040; font-weight:500;"> Packaging  </a></li>
+                                                                <li><a href="https://citiusresearch.com/reports/Semiconductor-and-Electronics" style="color:#404040; font-weight:500;"> Semiconductor and Electronics  </a></li>
+</ul>
 
 We provide syndicated and customized market research reports and consultancy services catering to the above industries. Click on any of the above industry names to view the reports related to each industry.
+
+
